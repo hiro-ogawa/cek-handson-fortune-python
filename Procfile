@@ -1,0 +1,1 @@
+web: gunicorn fortune:app --log-file=-

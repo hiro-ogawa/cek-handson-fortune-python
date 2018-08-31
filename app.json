@@ -1,0 +1,16 @@
+{
+  "name": "cek-handson-fortune-python",
+  "description": "cek-handson-fortune-python",
+  "keywords": [
+    "python",
+    "Clova",
+    "LINE",
+    "CEK"
+  ],
+  "env": {
+    "APPLICATION_ID": {
+      "description": "CEK Extension ID"
+    }
+  },
+  "repository": "https://github.com/hiro-ogawa/cek-handson-fortune-python"
+}
