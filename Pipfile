@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 clova-cek-sdk = "*"
 flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 
